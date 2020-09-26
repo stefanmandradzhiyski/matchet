@@ -1,11 +1,11 @@
 # matchet-rest
 
-Programming language: Java 8;
-Framework: Spring;
-ORM: Hibernate;
-Database: MySQL;
-Building tool: Gradle;
-Additional libraries: ModelMapper;
+- Programming language: Java 8;
+- Framework: Spring;
+- ORM: Hibernate;
+- Database: MySQL;
+- Building tool: Gradle;
+- Additional libraries: ModelMapper;
 
 MatchET is a WEB application that can be used to create your own league, add teams to it and organize matches. 
 
